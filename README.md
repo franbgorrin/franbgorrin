@@ -3,6 +3,7 @@
 
 - 📫 How to reach me **gorrin.francisco@gmail.com**
 - 👨‍💻 My Tableau of my projects are available at [https://public.tableau.com/app/profile/francisco.baez](https://public.tableau.com/app/profile/francisco.baez)
+- ⚡ Fun fact **Love tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
