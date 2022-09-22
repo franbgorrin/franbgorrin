@@ -24,4 +24,4 @@ href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="http
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franbgorrin&show_icons=true&locale=en&layout=compact" alt="franbgorrin" /></p>
+
